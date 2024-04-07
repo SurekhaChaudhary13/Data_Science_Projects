@@ -38,3 +38,4 @@ The accuracy of the model on the test set is measured using the `accuracy_score`
 ## Conclusion
 
 This project demonstrates how decision tree classification can be utilized for weather data analysis to predict high humidity conditions.
+![]()
